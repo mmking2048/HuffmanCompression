@@ -1,0 +1,3 @@
+# HuffmanCompression
+
+Huffman compression algorithm
